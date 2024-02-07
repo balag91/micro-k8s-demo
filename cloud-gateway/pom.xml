@@ -108,6 +108,9 @@
 	</build>
 
 </project>
+<<<<<<< HEAD
+#</project>
+=======
 #
 #
 #			</plugin>
@@ -115,4 +118,5 @@
 #		</plugins>
 #	</build>
 #
+>>>>>>> main
 #</project>
